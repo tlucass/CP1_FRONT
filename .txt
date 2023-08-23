@@ -1,0 +1,24 @@
+<div class="content">
+    <img src="./img/mc.png" alt="" />
+    <h3>MacBook Air de 15 pol.</h3>
+    <p>A partir R$ 14.999*</p>
+    <div class="button">
+        <a href="#">Comprar</a>
+    </div>
+</div>
+<div class="content">
+    <img src="./img/mc3.png" alt="" />
+    <h3>MacBook Pro de 14 pol.</h3>
+    <p>A partir de R$ 23.999</p>
+    <div class="button">
+        <a href="#">Comprar</a>
+    </div>
+</div>
+<div class="content">
+    <img src="./img/mc2.png" alt="" />
+    <h3>MacBook Air de 13 pol.</h3>
+    <p>A partir de R$ 11.599</p>
+    <div class="button">
+        <a href="#">Comprar</a>
+    </div>
+</div>

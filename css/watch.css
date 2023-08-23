@@ -22,14 +22,6 @@
     --bgBotaoHover: rgb(0, 59, 185);
 }
 
-body {
-    width: 100%;
-    min-width: 320px; /* Define uma largura mínima para evitar que o conteúdo fique muito estreito */
-    margin: 0; /* Remova as margens padrão do body */
-    padding: 0; /* Remova o preenchimento padrão do body */
-    box-sizing: border-box; /* Certifique-se de que o preenchimento e a borda não afetem a largura total */
-}
-
 header{
     width: 100%;
     padding: 2%;
@@ -148,7 +140,6 @@ section h1 {
     padding: 2% 0%;
     width: 100%;
 }
-
 
 @media screen and (max-width: 768px) {
     /* Estilos para garantir que o body ocupe 100% do width */
